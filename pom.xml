@@ -73,7 +73,7 @@
 
         <repository>
             <id>github.com</id>
-            <url>https://github.com/9Diagen/aScoreBoard.git</url>
+            <url>https://github.com/nNoquery/nqGUI.git</url>
         </repository>
 
     </repositories>
@@ -84,12 +84,6 @@
             <artifactId>spigot-api</artifactId>
             <version>1.20.1-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
-        </dependency>
-
-        <dependency>
-            <groupId>com.github.9Diagen</groupId>
-            <artifactId>aScoreBoard</artifactId>
-            <version>1.1</version>
         </dependency>
 
     </dependencies>
