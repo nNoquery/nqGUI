@@ -86,5 +86,12 @@
             <scope>provided</scope>
         </dependency>
 
+        <dependency>
+            <groupId>com.github.nNoquery</groupId>
+            <artifactId>nqGUI</artifactId>
+            <version>1.0</version>
+        </dependency>
+
+
     </dependencies>
 </project>
